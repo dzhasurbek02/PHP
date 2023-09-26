@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<users><user><user_id>3</user_id><username>tom</username><email>tom@gmail.com</email><isRoot>1</isRoot></user><user><user_id>4</user_id><username>bob</username><email>bob@gmail.com</email><isRoot/></user></users>
